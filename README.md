@@ -1,2 +1,2 @@
 # CRUD
-crud sederhana menggunakan php
+Crud sederhana menggunakan PHP
